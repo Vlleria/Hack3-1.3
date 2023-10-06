@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}  
+
+header{
+
+    height: 20vh;
+    background-color: #93B5C9;
+    
+    
+}
+section{
+    height: 28vh;
+    background-color:#AB2849;
+   
+}
+
+main{
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+div{
+    width: 800px;
+    height: 20px;
+    background-color:#AB2849;
+    margin: 15px 0 15px 0;
+    padding: 100px;
+    
+}
+footer{
+    
+    background-color:#AB2849;
+    margin: 0 15px 0 15px;
+    padding: 50px;
+
+}
